@@ -4,17 +4,17 @@
 
 This webapp is used for Chronic Kidney disease prediction and recommends it, if the patient NEEDS a doctor or NOT. 
 
-### Input Image A
+### Input Image 1
 
-![Screenshot (11)](https://user-images.githubusercontent.com/74549015/133928521-d86228c3-9b32-4718-afba-d004ea0f5a59.png)
+<img width="1440" alt="Screenshot 2021-10-02 at 7 46 01 PM" src="https://user-images.githubusercontent.com/52387727/135720339-89783f10-c6b8-4503-9789-0fc6acf3fa8d.png">
 
-### Input Image B
+### Input Image 2
 
-![Screenshot (12)](https://user-images.githubusercontent.com/74549015/133928517-2b5ae8b2-aa53-4730-a6eb-c43f8662875c.png)
+<img width="1440" alt="Screenshot 2021-10-02 at 7 46 07 PM" src="https://user-images.githubusercontent.com/52387727/135720337-456ca4a6-39dc-4b15-b152-a91c3916b4cc.png">
 
 ### Output Image 
 
-![Screenshot (13)](https://user-images.githubusercontent.com/74549015/133928520-a0ccd8dc-3341-41da-8759-53e907012269.png)
+<img width="1440" alt="Screenshot 2021-10-02 at 7 46 01 PM" src="https://user-images.githubusercontent.com/52387727/135720339-89783f10-c6b8-4503-9789-0fc6acf3fa8d.png">
 
 ### Flowchart of METHODOLOGY
 
