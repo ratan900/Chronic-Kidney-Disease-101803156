@@ -18,7 +18,7 @@ This webapp is used for Chronic Kidney disease prediction and recommends it, if 
 
 ### Flowchart of METHODOLOGY
 
-![1](https://user-images.githubusercontent.com/74549015/133929375-086bdec4-8254-4f26-8e31-8f730b8c2834.jpeg)
+<img width="403" alt="Methodology" src="https://user-images.githubusercontent.com/52387727/133934230-2bd7642a-320f-4d1d-bb1e-3e922c331ea4.png">
 
 
 
